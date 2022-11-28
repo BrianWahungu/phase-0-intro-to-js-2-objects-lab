@@ -1,4 +1,4 @@
-// Write your solution in this file!
+// completed assignment
 const employee = {}
 function updateEmployeeWithKeyAndValue(employee, key, value) {
     return Object.assign({}, employee,{[key]:value});
